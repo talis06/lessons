@@ -1,0 +1,95 @@
+@import url("reset.css");
+/* *{
+    color: darkblue;
+}
+p{
+    color: crimson;
+}
+li{
+    color: deeppink;
+} */
+span {
+color:darkolivegreen 
+}  
+.main-title {
+    color: aqua;
+    }  
+.big-title {
+    color:chartreuse;
+}
+
+.header-block {
+    color: forestgreen;
+}
+.ukr-lang-block {
+    color:brown;
+}
+.education-block {
+    color: deepskyblue;
+}
+.facts-about-ukr-block {
+    color:orange;
+}
+.footer-block {
+    color: hotpink;
+}
+[href*="ir"]{
+    color:darkcyan;
+}
+
+.ul-list {
+    color:chartreuse;
+}
+.ul-item {
+    color: chocolate;
+}
+.ol-list {
+    color:darkgreen;
+
+}
+.ol-item {
+    color:deeppink;
+}
+#zaporizh-sich {
+    color: darkmagenta;
+}
+div.header-block{
+    color: dimgray;
+}
+.education-block,
+li,
+#facts-about-ukr {
+    color: greenyellow;
+}
+.ukr-lang-block p {
+    color:fuchsia;
+}
+
+.ukr-lang-block #ukr-lang{
+    color: darksalmon;
+}
+.list-block a{
+    color: goldenrod;
+}
+.education-block #education{
+    color: cyan;
+}
+.list-block .ul-item{
+    color: cornflowerblue;
+}
+.list-block .ul-link{
+    color: darkgreen;
+}
+.ol-list *{
+    color: mediumpurple;
+}
+.ukr-lang-block > p{
+    color: darkslategrey;
+}
+.ukr-lang-block~p{
+    color:chartreuse;
+}
+.ukr-lang-block+p{
+    color:darkolivegreen;
+}
+
