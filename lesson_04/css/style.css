@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,400;0,700;1,300;1,400&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Roboto:regular,500,500italic,700,700italic,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,400;0,700;1,300;1,400&family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,400;0,700;1,300;1,400&family=Lora:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,400;0,700;1,300;1,400&family=Lora:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Bruno+Ace:regular&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Inria+Sans:ital,wght@0,400;0,700;1,300;1,400&family=Lora:wght@700&display=swap');
+
+@import url("https://fonts.googleapis.com/css?family=Sofadi+One&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Playfair:regular,700,900,italic&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:300,300italic,regular&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Work+Sans:regular,600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:regular,700&display=swap");
+
+
+@import url("reset.css");
+@import url("fonts.css");
+
+
+.loremm {
+    font-family: "Nanum Gothic", sans-serif;
+    font-weight: 700;
+    color: aqua;
+}
+.header-wrap a {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    color:blueviolet;
+    font-size: 14px;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: crimson;
+    text-align: right;
+    text-transform: uppercase;
+}
+.title-wrap {
+    font-family: "Bruno Ace", sans-serif;
+    font-weight: 700;
+    color: chartreuse;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-transform: capitalize;
+}
+
+.intro {
+    font-family: "Carattere", serif;
+    font-weight: 400;
+    color: brown;
+    line-height: 1.7;
+}
+.blockquote {
+    font-family: "Gilroy", sans-serif;
+    font-weight: 900;
+    color: chocolate;
+    line-height: 0.9;
+    letter-spacing: 4px;
+}
+.man-cloth {
+    font-family: "Gilroy", sans-serif;
+    font-weight: 700;
+    color: cornflowerblue;
+    word-spacing: 5px;
+}
+.woman-cloth {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    color: crimson;
+}
+.conclision {
+    font-family: "Playfair", serif;
+    font-weight: 400;
+    color: darkgreen;
+}
+.footer-block {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: italic;
+    text-decoration: line-through;
+    text-decoration-color: rgb(165, 17, 66);
+}
+#man-cloth,
+#woman-cloth {
+    font-family: "Gilroy", sans-serif;
+    font-weight: 900;
+    color: darkolivegreen;
+    font-size: 28px;
+    text-align: center;
+    text-decoration: overline;
+    text-shadow: 4px 3px 5px blueviolet;
+
+}
+.picture-woman-cloth,
+.picture-man-cloth {
+    text-align: center;
+}
+
+.title-conteiner{
+    font-family: "Work Sans", sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 50px;
+}
+.main-text{
+    font-family: "Work Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+
+}
+.title-about-us{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 95px;
+}
+
+.title-introduce {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 66px;
+}
+.text-introduce {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
